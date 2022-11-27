@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Holo
-=======
-Holaaaaa
->>>>>>> da36f4796a2600095ee441310b2245d3f6407a6a
+Hola q mas
